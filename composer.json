@@ -3,7 +3,7 @@
 	"description": "Cross Site Request Forgery security library",
 	"keywords": ["CSRF", "security", "php"],
 	"homepage": "http://github.com/jasonstockman/csrf-magic",
-	"type": "library",
+	"type": "composer-plugin",
 	"license": "CC BY-SA 3.0",
 	"authors": [
 		{
